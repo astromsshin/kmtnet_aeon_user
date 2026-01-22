@@ -1,0 +1,11 @@
+[
+ {
+  "program":"2026A-000001",
+  "block":"CT-260425-2334",
+  "ra":"12h10m20.00s",
+  "dec":"-45d10m10.0s",
+  "object":"object1",
+  "filter":"V",
+  "exptime":"30"
+  }
+]
